@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.carloscontrerasruiz.user_starter.UserInfoAutoConfiguration,\
+  com.github.carloscontrerasruiz.user_starter.VerifyProperties
